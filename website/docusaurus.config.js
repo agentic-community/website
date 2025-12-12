@@ -70,7 +70,7 @@ const config = {
           },
           {
             label: 'Artifacts',
-            to: '/docs/Artifacts/evolving-systems-architecture',
+            to: '/docs/artifacts',
             position: 'left',
           },
           {
