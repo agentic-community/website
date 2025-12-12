@@ -74,6 +74,11 @@ const config = {
             position: 'left',
           },
           {
+              label: 'Blog',
+              to: 'blog',
+              position: 'left'
+          },
+          {
             'aria-label': 'Community Calendar',
             'className': 'navbar--calendar-link',
             'href': "https://calendar.google.com/calendar/embed?src=c_c2c61707db4ec15fc107e5d0f2e18714f06fe8b12c85812f0c6b99321ae4d354%40group.calendar.google.com&ctz=America%2FLos_Angeles",
