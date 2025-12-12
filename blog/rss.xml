@@ -31,8 +31,7 @@ the <a href="https://agentic-community.com/docs/Artifacts/evolving-systems-archi
 operations working group developed and published a
 reference <a href="https://github.com/agentic-community/wg-operations/tree/main/proposals/0001-reference-architecture" target="_blank" rel="noopener noreferrer">architecture for agentic systems</a>,
 addressing a critical gap in the ecosystem. The security working group delivered
-an <a href="https://agentic-community.com/docs/Working%20Groups/security#gen-ai-agent-identity-security-reference-architecture-framework" target="_blank" rel="noopener noreferrer">identity framework</a>
-specifically designed for agentic
+an <a href="https://agentic-community.com/docs/artifacts/agent-identity-security/" target="_blank" rel="noopener noreferrer">identity framework</a> specifically designed for agentic
 environments. <a href="https://github.com/agentic-community/wg-operations/tree/main/projects/agent-building-template" target="_blank" rel="noopener noreferrer">Starter templates</a>
 were created to accelerate development and promote consistent practices across implementations.</p>
 <p>The <a href="https://github.com/agentic-community/mcp-gateway-registry" target="_blank" rel="noopener noreferrer">MCP Gateway Registry</a> launched successfully and
